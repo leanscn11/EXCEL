@@ -1,2 +1,0 @@
-# EXCEL
-FÓRMULA
